@@ -1,0 +1,10 @@
+/* Empty. Add your own CSS if you like */
+.completed {
+  text-decoration: line-through;
+  color: red;
+}
+
+.uncompleted {
+  text-decoration: none;
+  color: dodgerblue;
+}
